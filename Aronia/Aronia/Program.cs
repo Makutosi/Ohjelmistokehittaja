@@ -51,6 +51,38 @@ namespace EtuNimi
     }
 }
 
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double result1 = Math.Pow(-7, 4);
+            Console.WriteLine("-7*-7*-7*-7:" + result1);
+
+            double result2 = Math.Pow(2, 8);
+            Console.WriteLine("2*2*2*2*2*2*2*2:" + result2);
+
+            int num = Math.Min(8, 4);
+            Console.WriteLine(num);
+
+            double real = Math.Max(-11.2, 6.4);
+            Console.WriteLine(real);
+
+            double sqrt1 = Math.Sqrt(25);
+            Console.WriteLine(sqrt1);
+
+            double sqrt2 = Math.Sqrt(2);
+            Console.WriteLine(sqrt2);
+
+
+
+
+
+        }
+    }
+}
+
 
 
 
