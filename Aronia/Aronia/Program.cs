@@ -11,9 +11,9 @@ namespace Aronia
     }
 }
 
-namespace Aronia
+namespace OmaNimi
 {
-    class OmaNimi
+    class Program
     {
         static void Main(string[] args)
         {
@@ -22,15 +22,35 @@ namespace Aronia
     }
 }
 
-namespace Aronia
+namespace YksiNumerot
 {
-    class YksiNumerot
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("1,11,101,1001");
+            Console.WriteLine("1");
+            Console.WriteLine("11");
+            Console.WriteLine("101");
+            Console.WriteLine("1001");
         }
     }
 }
+
+namespace EtuNimi
+{
+    Class Program
+    {
+        static void Main(string[] args)
+        {
+          Console.WriteLine("Mikä sinun nimesi on? ")
+
+            string nimi = Console.ReadLine();
+            Console.WriteLine("Hei: {0}", nimi);
+            Console.ReadLine();
+        }
+    }
+}
+
+
 
 
