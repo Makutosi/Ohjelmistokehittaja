@@ -42,7 +42,7 @@ namespace EtuNimi
     {
         static void Main(string[] args)
         {
-          Console.WriteLine("Mikä sinun nimesi on? ")
+          Console.WriteLine("Mikä sinun nimesi on? ");
 
             string nimi = Console.ReadLine();
             Console.WriteLine("Hei: {0}", nimi);
