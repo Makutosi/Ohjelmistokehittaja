@@ -83,6 +83,104 @@ namespace ConsoleApp1
     }
 }
 
+namespace ConsoleApp2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var x = 10;
+            var y = 5;
+            x = y + 3;
+            Console.WriteLine(x);
+
+        }
+
+        static void Main(string[] args)
+        {
+            var x = 10;
+            var y = 5;
+            x = y - 2;
+            Console.WriteLine(x);
+
+
+        }
+    }
+}
+
+namespace Sample1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Anna ensimmäinen numero: ");
+            int luku1 + int.Parse(Console.ReadLine());
+            Console.WriteLine("Anna toinen numero: ");
+            int luku2 + int.Parse(Console.ReadLine());
+            Console.WriteLine("x = " + (luku2 + 3));
+
+            Console.WriteLine("Anna ensimmäinen numero: ");
+            int luku1 +int.Parse(Console.ReadLine());
+            Console.WriteLine("Anna toinen numero: ");
+            int luku2 +int.Parse(Console.ReadLine());
+            Console.WriteLine("x = " + (luku2 - 2));
+
+            Console.WriteLine("Anna ensimmäinen numero: ");
+            int luku1 +int.Parse(Console.ReadLine());
+            Console.WriteLine("Anna toinen numero: ");
+            int luku2 +int.Parse(Console.ReadLine());
+            Console.WriteLine("x = " + (luku2 * 5));
+
+            Console.WriteLine("Anna ensimmäinen numero: ");
+            int luku1 +int.Parse(Console.ReadLine());
+            Console.WriteLine("Anna toinen numero: ");
+            int luku2 +int.Parse(Console.ReadLine());
+            Console.WriteLine("x = " + (luku1 / luku2));
+
+            Console.WriteLine("Anna ensimmäinen numero: ");
+            int luku1 +int.Parse(Console.ReadLine());
+            Console.WriteLine("Anna toinen numero: ");
+            int luku2 +int.Parse(Console.ReadLine());
+            Console.WriteLine("x = " + (luku1 % luku2));
+
+            Console.WriteLine("Anna ensimmäinen numero: ");
+            int luku1 +int.Parse(Console.ReadLine());
+            Console.WriteLine("Anna toinen numero: ");
+            int luku2 +int.Parse(Console.ReadLine());
+            Console.WriteLine("x = " + (luku1 += luku2));
+
+            Console.WriteLine("Anna ensimmäinen numero: ");
+            int luku1 +int.Parse(Console.ReadLine());
+            Console.WriteLine("Anna toinen numero: ");
+            int luku2 +int.Parse(Console.ReadLine());
+            Console.WriteLine("x = " + (luku1 -= luku2));
+
+            Console.WriteLine("Anna ensimmäinen numero: ");
+            int luku1 +int.Parse(Console.ReadLine());
+            Console.WriteLine("Anna toinen numero: ");
+            int luku2 +int.Parse(Console.ReadLine());
+            Console.WriteLine("x = " + (luku1 *= luku2*5));
+
+            Console.WriteLine("Anna ensimmäinen numero: ");
+            int luku1 +int.Parse(Console.ReadLine());
+            Console.WriteLine("Anna toinen numero: ");
+            int luku2 +int.Parse(Console.ReadLine());
+            Console.WriteLine("x = " + (luku1 /= luku2));
+
+
+
+
+
+
+        }
+    }
+}
+
+
+
+
+
 
 
 
