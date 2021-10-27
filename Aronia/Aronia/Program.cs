@@ -177,7 +177,24 @@ namespace Sample1
     }
 }
 
-
+public static void Main(string[] args)
+{
+    Console.Write("Ole hyvä, ja anna kahta kokonaislukuarvoa: ");
+    int luku1 = int.Parce(Console.ReadLine());
+    int luku2 = int.Parce(Console.ReadLine());
+    if (luku1 < luku2)
+    {
+        Console.WriteLine("Suuruusjärjestys: " + luku2'' + luku1);
+    }
+    else if(luku1 > luku2)
+    {
+        Console.WriteLine("Suuruusjärjestys: " + luku1'' + luku2);
+    }
+    else if(luku1 == luku2)
+    {
+        Console.WriteLine("Suuruusjärjestys: " + luku1'' + luku2);
+    }
+}
 
 
 
