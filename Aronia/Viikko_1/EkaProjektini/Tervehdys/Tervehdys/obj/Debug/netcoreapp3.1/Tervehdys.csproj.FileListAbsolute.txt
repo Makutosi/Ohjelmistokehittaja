@@ -1,0 +1,28 @@
+C:\Users\eriko\source\repos\C#_tehtävät\Tervehdys\Tervehdys\bin\Debug\netcoreapp3.1\Tervehdys.exe
+C:\Users\eriko\source\repos\C#_tehtävät\Tervehdys\Tervehdys\bin\Debug\netcoreapp3.1\Tervehdys.deps.json
+C:\Users\eriko\source\repos\C#_tehtävät\Tervehdys\Tervehdys\bin\Debug\netcoreapp3.1\Tervehdys.runtimeconfig.json
+C:\Users\eriko\source\repos\C#_tehtävät\Tervehdys\Tervehdys\bin\Debug\netcoreapp3.1\Tervehdys.runtimeconfig.dev.json
+C:\Users\eriko\source\repos\C#_tehtävät\Tervehdys\Tervehdys\bin\Debug\netcoreapp3.1\Tervehdys.dll
+C:\Users\eriko\source\repos\C#_tehtävät\Tervehdys\Tervehdys\bin\Debug\netcoreapp3.1\Tervehdys.pdb
+C:\Users\eriko\source\repos\C#_tehtävät\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repos\C#_tehtävät\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriko\source\repos\C#_tehtävät\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.AssemblyInfoInputs.cache
+C:\Users\eriko\source\repos\C#_tehtävät\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.AssemblyInfo.cs
+C:\Users\eriko\source\repos\C#_tehtävät\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repos\C#_tehtävät\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.dll
+C:\Users\eriko\source\repos\C#_tehtävät\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.pdb
+C:\Users\eriko\source\repos\C#_tehtävät\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.genruntimeconfig.cache
+C:\Users\eriko\source\repos\Viikko 1\Tervehdys\Tervehdys\bin\Debug\netcoreapp3.1\Tervehdys.exe
+C:\Users\eriko\source\repos\Viikko 1\Tervehdys\Tervehdys\bin\Debug\netcoreapp3.1\Tervehdys.deps.json
+C:\Users\eriko\source\repos\Viikko 1\Tervehdys\Tervehdys\bin\Debug\netcoreapp3.1\Tervehdys.runtimeconfig.json
+C:\Users\eriko\source\repos\Viikko 1\Tervehdys\Tervehdys\bin\Debug\netcoreapp3.1\Tervehdys.runtimeconfig.dev.json
+C:\Users\eriko\source\repos\Viikko 1\Tervehdys\Tervehdys\bin\Debug\netcoreapp3.1\Tervehdys.dll
+C:\Users\eriko\source\repos\Viikko 1\Tervehdys\Tervehdys\bin\Debug\netcoreapp3.1\Tervehdys.pdb
+C:\Users\eriko\source\repos\Viikko 1\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repos\Viikko 1\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriko\source\repos\Viikko 1\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.AssemblyInfoInputs.cache
+C:\Users\eriko\source\repos\Viikko 1\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.AssemblyInfo.cs
+C:\Users\eriko\source\repos\Viikko 1\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repos\Viikko 1\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.dll
+C:\Users\eriko\source\repos\Viikko 1\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.pdb
+C:\Users\eriko\source\repos\Viikko 1\Tervehdys\Tervehdys\obj\Debug\netcoreapp3.1\Tervehdys.genruntimeconfig.cache
