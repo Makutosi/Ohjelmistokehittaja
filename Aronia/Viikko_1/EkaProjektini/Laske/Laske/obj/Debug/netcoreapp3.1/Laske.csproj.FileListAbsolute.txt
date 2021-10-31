@@ -1,0 +1,14 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_1\Laske\Laske\bin\Debug\netcoreapp3.1\Laske.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_1\Laske\Laske\bin\Debug\netcoreapp3.1\Laske.deps.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_1\Laske\Laske\bin\Debug\netcoreapp3.1\Laske.runtimeconfig.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_1\Laske\Laske\bin\Debug\netcoreapp3.1\Laske.runtimeconfig.dev.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_1\Laske\Laske\bin\Debug\netcoreapp3.1\Laske.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_1\Laske\Laske\bin\Debug\netcoreapp3.1\Laske.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_1\Laske\Laske\obj\Debug\netcoreapp3.1\Laske.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_1\Laske\Laske\obj\Debug\netcoreapp3.1\Laske.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_1\Laske\Laske\obj\Debug\netcoreapp3.1\Laske.AssemblyInfoInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_1\Laske\Laske\obj\Debug\netcoreapp3.1\Laske.AssemblyInfo.cs
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_1\Laske\Laske\obj\Debug\netcoreapp3.1\Laske.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_1\Laske\Laske\obj\Debug\netcoreapp3.1\Laske.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_1\Laske\Laske\obj\Debug\netcoreapp3.1\Laske.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_1\Laske\Laske\obj\Debug\netcoreapp3.1\Laske.genruntimeconfig.cache
