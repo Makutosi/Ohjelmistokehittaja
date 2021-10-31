@@ -1,0 +1,14 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Asonia\Viikko_1\MathLuokka\MathLuokka\bin\Debug\netcoreapp3.1\MathLuokka.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Asonia\Viikko_1\MathLuokka\MathLuokka\bin\Debug\netcoreapp3.1\MathLuokka.deps.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Asonia\Viikko_1\MathLuokka\MathLuokka\bin\Debug\netcoreapp3.1\MathLuokka.runtimeconfig.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Asonia\Viikko_1\MathLuokka\MathLuokka\bin\Debug\netcoreapp3.1\MathLuokka.runtimeconfig.dev.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Asonia\Viikko_1\MathLuokka\MathLuokka\bin\Debug\netcoreapp3.1\MathLuokka.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Asonia\Viikko_1\MathLuokka\MathLuokka\bin\Debug\netcoreapp3.1\MathLuokka.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Asonia\Viikko_1\MathLuokka\MathLuokka\obj\Debug\netcoreapp3.1\MathLuokka.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Asonia\Viikko_1\MathLuokka\MathLuokka\obj\Debug\netcoreapp3.1\MathLuokka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Asonia\Viikko_1\MathLuokka\MathLuokka\obj\Debug\netcoreapp3.1\MathLuokka.AssemblyInfoInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Asonia\Viikko_1\MathLuokka\MathLuokka\obj\Debug\netcoreapp3.1\MathLuokka.AssemblyInfo.cs
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Asonia\Viikko_1\MathLuokka\MathLuokka\obj\Debug\netcoreapp3.1\MathLuokka.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Asonia\Viikko_1\MathLuokka\MathLuokka\obj\Debug\netcoreapp3.1\MathLuokka.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Asonia\Viikko_1\MathLuokka\MathLuokka\obj\Debug\netcoreapp3.1\MathLuokka.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Asonia\Viikko_1\MathLuokka\MathLuokka\obj\Debug\netcoreapp3.1\MathLuokka.genruntimeconfig.cache
