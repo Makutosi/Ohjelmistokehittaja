@@ -1,0 +1,14 @@
+C:\Users\eriko\source\repos\C#_tehtävät\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.exe
+C:\Users\eriko\source\repos\C#_tehtävät\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.deps.json
+C:\Users\eriko\source\repos\C#_tehtävät\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.runtimeconfig.json
+C:\Users\eriko\source\repos\C#_tehtävät\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.runtimeconfig.dev.json
+C:\Users\eriko\source\repos\C#_tehtävät\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.dll
+C:\Users\eriko\source\repos\C#_tehtävät\OmaNimi\OmaNimi\bin\Debug\netcoreapp3.1\OmaNimi.pdb
+C:\Users\eriko\source\repos\C#_tehtävät\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repos\C#_tehtävät\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriko\source\repos\C#_tehtävät\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.AssemblyInfoInputs.cache
+C:\Users\eriko\source\repos\C#_tehtävät\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.AssemblyInfo.cs
+C:\Users\eriko\source\repos\C#_tehtävät\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repos\C#_tehtävät\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.dll
+C:\Users\eriko\source\repos\C#_tehtävät\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.pdb
+C:\Users\eriko\source\repos\C#_tehtävät\OmaNimi\OmaNimi\obj\Debug\netcoreapp3.1\OmaNimi.genruntimeconfig.cache
