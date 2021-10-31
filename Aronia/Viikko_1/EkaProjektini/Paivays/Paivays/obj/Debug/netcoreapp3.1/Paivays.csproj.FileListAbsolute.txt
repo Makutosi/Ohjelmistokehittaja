@@ -1,0 +1,28 @@
+C:\Users\eriko\source\repos\C#_tehtävät\Paivays\Paivays\bin\Debug\netcoreapp3.1\Paivays.exe
+C:\Users\eriko\source\repos\C#_tehtävät\Paivays\Paivays\bin\Debug\netcoreapp3.1\Paivays.deps.json
+C:\Users\eriko\source\repos\C#_tehtävät\Paivays\Paivays\bin\Debug\netcoreapp3.1\Paivays.runtimeconfig.json
+C:\Users\eriko\source\repos\C#_tehtävät\Paivays\Paivays\bin\Debug\netcoreapp3.1\Paivays.runtimeconfig.dev.json
+C:\Users\eriko\source\repos\C#_tehtävät\Paivays\Paivays\bin\Debug\netcoreapp3.1\Paivays.dll
+C:\Users\eriko\source\repos\C#_tehtävät\Paivays\Paivays\bin\Debug\netcoreapp3.1\Paivays.pdb
+C:\Users\eriko\source\repos\C#_tehtävät\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repos\C#_tehtävät\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriko\source\repos\C#_tehtävät\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.AssemblyInfoInputs.cache
+C:\Users\eriko\source\repos\C#_tehtävät\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.AssemblyInfo.cs
+C:\Users\eriko\source\repos\C#_tehtävät\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repos\C#_tehtävät\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.dll
+C:\Users\eriko\source\repos\C#_tehtävät\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.pdb
+C:\Users\eriko\source\repos\C#_tehtävät\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.genruntimeconfig.cache
+C:\Users\eriko\source\repos\Viikko 1\Paivays\Paivays\bin\Debug\netcoreapp3.1\Paivays.exe
+C:\Users\eriko\source\repos\Viikko 1\Paivays\Paivays\bin\Debug\netcoreapp3.1\Paivays.deps.json
+C:\Users\eriko\source\repos\Viikko 1\Paivays\Paivays\bin\Debug\netcoreapp3.1\Paivays.runtimeconfig.json
+C:\Users\eriko\source\repos\Viikko 1\Paivays\Paivays\bin\Debug\netcoreapp3.1\Paivays.runtimeconfig.dev.json
+C:\Users\eriko\source\repos\Viikko 1\Paivays\Paivays\bin\Debug\netcoreapp3.1\Paivays.dll
+C:\Users\eriko\source\repos\Viikko 1\Paivays\Paivays\bin\Debug\netcoreapp3.1\Paivays.pdb
+C:\Users\eriko\source\repos\Viikko 1\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repos\Viikko 1\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriko\source\repos\Viikko 1\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.AssemblyInfoInputs.cache
+C:\Users\eriko\source\repos\Viikko 1\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.AssemblyInfo.cs
+C:\Users\eriko\source\repos\Viikko 1\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repos\Viikko 1\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.dll
+C:\Users\eriko\source\repos\Viikko 1\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.pdb
+C:\Users\eriko\source\repos\Viikko 1\Paivays\Paivays\obj\Debug\netcoreapp3.1\Paivays.genruntimeconfig.cache
