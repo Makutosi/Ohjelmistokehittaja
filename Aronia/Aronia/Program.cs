@@ -114,58 +114,58 @@ namespace Sample1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Anna ensimmäinen numero: ");
-            int luku1 + int.Parse(Console.ReadLine());
+            Console.Write("Anna ensimmäinen numero: ");
+            luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
-            int luku2 + int.Parse(Console.ReadLine());
+            luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku2 + 3));
 
-            Console.WriteLine("Anna ensimmäinen numero: ");
-            int luku1 +int.Parse(Console.ReadLine());
+            Console.Write("Anna ensimmäinen numero: ");
+            luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
-            int luku2 +int.Parse(Console.ReadLine());
+            luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku2 - 2));
 
-            Console.WriteLine("Anna ensimmäinen numero: ");
-            int luku1 +int.Parse(Console.ReadLine());
+            Console.Write("Anna ensimmäinen numero: ");
+            luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
-            int luku2 +int.Parse(Console.ReadLine());
+            luku2 = int.Parse(Console.ReadLine());;
             Console.WriteLine("x = " + (luku2 * 5));
 
-            Console.WriteLine("Anna ensimmäinen numero: ");
-            int luku1 +int.Parse(Console.ReadLine());
+            Console.Write("Anna ensimmäinen numero: ");
+            luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
-            int luku2 +int.Parse(Console.ReadLine());
+            luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku1 / luku2));
 
-            Console.WriteLine("Anna ensimmäinen numero: ");
-            int luku1 +int.Parse(Console.ReadLine());
+            Console.Write("Anna ensimmäinen numero: ");
+            luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
-            int luku2 +int.Parse(Console.ReadLine());
+            luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku1 % luku2));
 
-            Console.WriteLine("Anna ensimmäinen numero: ");
-            int luku1 +int.Parse(Console.ReadLine());
+            Console.Write("Anna ensimmäinen numero: ");
+            luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
-            int luku2 +int.Parse(Console.ReadLine());
+            luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku1 += luku2));
 
-            Console.WriteLine("Anna ensimmäinen numero: ");
-            int luku1 +int.Parse(Console.ReadLine());
+            Console.Write("Anna ensimmäinen numero: ");
+            luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
-            int luku2 +int.Parse(Console.ReadLine());
+            luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku1 -= luku2));
 
-            Console.WriteLine("Anna ensimmäinen numero: ");
-            int luku1 +int.Parse(Console.ReadLine());
+            Console.Write("Anna ensimmäinen numero: ");
+            luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
-            int luku2 +int.Parse(Console.ReadLine());
+            luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku1 *= luku2*5));
 
-            Console.WriteLine("Anna ensimmäinen numero: ");
-            int luku1 +int.Parse(Console.ReadLine());
+            Console.Write("Anna ensimmäinen numero: ");
+            luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
-            int luku2 +int.Parse(Console.ReadLine());
+            luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku1 /= luku2));
 
 
