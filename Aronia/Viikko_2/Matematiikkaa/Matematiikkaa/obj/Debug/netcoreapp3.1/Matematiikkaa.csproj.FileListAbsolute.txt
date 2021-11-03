@@ -1,0 +1,14 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.deps.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.runtimeconfig.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.runtimeconfig.dev.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\Matematiikkaa\Matematiikkaa\bin\Debug\netcoreapp3.1\Matematiikkaa.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.AssemblyInfoInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.AssemblyInfo.cs
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\Matematiikkaa\Matematiikkaa\obj\Debug\netcoreapp3.1\Matematiikkaa.genruntimeconfig.cache
