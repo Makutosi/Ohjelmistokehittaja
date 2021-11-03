@@ -10,6 +10,20 @@ namespace EkaProjektini
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hyvää päivää!");
             
+             // uusi muuttuja: heiMaailma
+            string heiMaailma = "Hello World!";
+            Console.WriteLine("Tulostus: " + heiMaailma);
+            
+            //
+            heiMaailma = "Hei maailma!";
+            Console.WriteLine(heiMaailma);
+            
+            //
+            string heimaailma1 = "Hello";
+            string heimaailma2 = " World!";
+            Console.WriteLine(heimaailma1 + heimaailma2);
+            
+            
         }
     }
 }
