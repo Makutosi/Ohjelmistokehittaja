@@ -1,0 +1,14 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\SWITCH\SWITCH\obj\Debug\netcoreapp3.1\SWITCH.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\SWITCH\SWITCH\obj\Debug\netcoreapp3.1\SWITCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\SWITCH\SWITCH\obj\Debug\netcoreapp3.1\SWITCH.AssemblyInfoInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\SWITCH\SWITCH\obj\Debug\netcoreapp3.1\SWITCH.AssemblyInfo.cs
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\SWITCH\SWITCH\obj\Debug\netcoreapp3.1\SWITCH.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\SWITCH\SWITCH\bin\Debug\netcoreapp3.1\SWITCH.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\SWITCH\SWITCH\bin\Debug\netcoreapp3.1\SWITCH.deps.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\SWITCH\SWITCH\bin\Debug\netcoreapp3.1\SWITCH.runtimeconfig.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\SWITCH\SWITCH\bin\Debug\netcoreapp3.1\SWITCH.runtimeconfig.dev.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\SWITCH\SWITCH\bin\Debug\netcoreapp3.1\SWITCH.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\SWITCH\SWITCH\bin\Debug\netcoreapp3.1\SWITCH.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\SWITCH\SWITCH\obj\Debug\netcoreapp3.1\SWITCH.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\SWITCH\SWITCH\obj\Debug\netcoreapp3.1\SWITCH.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_2\SWITCH\SWITCH\obj\Debug\netcoreapp3.1\SWITCH.genruntimeconfig.cache
