@@ -1,0 +1,14 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Laskeminen\Laskeminen\bin\Debug\netcoreapp3.1\Laskeminen.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Laskeminen\Laskeminen\bin\Debug\netcoreapp3.1\Laskeminen.deps.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Laskeminen\Laskeminen\bin\Debug\netcoreapp3.1\Laskeminen.runtimeconfig.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Laskeminen\Laskeminen\bin\Debug\netcoreapp3.1\Laskeminen.runtimeconfig.dev.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Laskeminen\Laskeminen\bin\Debug\netcoreapp3.1\Laskeminen.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Laskeminen\Laskeminen\bin\Debug\netcoreapp3.1\Laskeminen.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Laskeminen\Laskeminen\obj\Debug\netcoreapp3.1\Laskeminen.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Laskeminen\Laskeminen\obj\Debug\netcoreapp3.1\Laskeminen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Laskeminen\Laskeminen\obj\Debug\netcoreapp3.1\Laskeminen.AssemblyInfoInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Laskeminen\Laskeminen\obj\Debug\netcoreapp3.1\Laskeminen.AssemblyInfo.cs
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Laskeminen\Laskeminen\obj\Debug\netcoreapp3.1\Laskeminen.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Laskeminen\Laskeminen\obj\Debug\netcoreapp3.1\Laskeminen.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Laskeminen\Laskeminen\obj\Debug\netcoreapp3.1\Laskeminen.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Laskeminen\Laskeminen\obj\Debug\netcoreapp3.1\Laskeminen.genruntimeconfig.cache

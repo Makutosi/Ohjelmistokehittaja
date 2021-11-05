@@ -1,0 +1,14 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Ehtolause\Ehtolause\bin\Debug\netcoreapp3.1\Ehtolause.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Ehtolause\Ehtolause\bin\Debug\netcoreapp3.1\Ehtolause.deps.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Ehtolause\Ehtolause\bin\Debug\netcoreapp3.1\Ehtolause.runtimeconfig.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Ehtolause\Ehtolause\bin\Debug\netcoreapp3.1\Ehtolause.runtimeconfig.dev.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Ehtolause\Ehtolause\bin\Debug\netcoreapp3.1\Ehtolause.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Ehtolause\Ehtolause\bin\Debug\netcoreapp3.1\Ehtolause.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Ehtolause\Ehtolause\obj\Debug\netcoreapp3.1\Ehtolause.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Ehtolause\Ehtolause\obj\Debug\netcoreapp3.1\Ehtolause.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Ehtolause\Ehtolause\obj\Debug\netcoreapp3.1\Ehtolause.AssemblyInfoInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Ehtolause\Ehtolause\obj\Debug\netcoreapp3.1\Ehtolause.AssemblyInfo.cs
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Ehtolause\Ehtolause\obj\Debug\netcoreapp3.1\Ehtolause.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Ehtolause\Ehtolause\obj\Debug\netcoreapp3.1\Ehtolause.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Ehtolause\Ehtolause\obj\Debug\netcoreapp3.1\Ehtolause.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\C#_perusteet\Ehtolause\Ehtolause\obj\Debug\netcoreapp3.1\Ehtolause.genruntimeconfig.cache
