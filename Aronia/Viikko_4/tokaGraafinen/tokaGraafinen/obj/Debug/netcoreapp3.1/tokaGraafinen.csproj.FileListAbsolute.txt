@@ -1,0 +1,16 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\bin\Debug\netcoreapp3.1\tokaGraafinen.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\bin\Debug\netcoreapp3.1\tokaGraafinen.deps.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\bin\Debug\netcoreapp3.1\tokaGraafinen.runtimeconfig.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\bin\Debug\netcoreapp3.1\tokaGraafinen.runtimeconfig.dev.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\bin\Debug\netcoreapp3.1\tokaGraafinen.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\bin\Debug\netcoreapp3.1\tokaGraafinen.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\obj\Debug\netcoreapp3.1\tokaGraafinen.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\obj\Debug\netcoreapp3.1\tokaGraafinen.Form1.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\obj\Debug\netcoreapp3.1\tokaGraafinen.csproj.GenerateResource.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\obj\Debug\netcoreapp3.1\tokaGraafinen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\obj\Debug\netcoreapp3.1\tokaGraafinen.AssemblyInfoInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\obj\Debug\netcoreapp3.1\tokaGraafinen.AssemblyInfo.cs
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\obj\Debug\netcoreapp3.1\tokaGraafinen.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\obj\Debug\netcoreapp3.1\tokaGraafinen.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\obj\Debug\netcoreapp3.1\tokaGraafinen.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\tokaGraafinen\tokaGraafinen\obj\Debug\netcoreapp3.1\tokaGraafinen.genruntimeconfig.cache
