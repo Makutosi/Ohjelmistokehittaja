@@ -1,0 +1,10 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ikak\ikak\bin\Debug\ikak.exe.config
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ikak\ikak\bin\Debug\ikak.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ikak\ikak\bin\Debug\ikak.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ikak\ikak\obj\Debug\ikak.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ikak\ikak\obj\Debug\ikak.Form1.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ikak\ikak\obj\Debug\ikak.Properties.Resources.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ikak\ikak\obj\Debug\ikak.csproj.GenerateResource.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ikak\ikak\obj\Debug\ikak.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ikak\ikak\obj\Debug\ikak.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ikak\ikak\obj\Debug\ikak.pdb
