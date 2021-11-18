@@ -1,0 +1,16 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\bin\Debug\netcoreapp3.1\ekaGraafinen.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\bin\Debug\netcoreapp3.1\ekaGraafinen.deps.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\bin\Debug\netcoreapp3.1\ekaGraafinen.runtimeconfig.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\bin\Debug\netcoreapp3.1\ekaGraafinen.runtimeconfig.dev.json
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\bin\Debug\netcoreapp3.1\ekaGraafinen.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\bin\Debug\netcoreapp3.1\ekaGraafinen.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\netcoreapp3.1\ekaGraafinen.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\netcoreapp3.1\ekaGraafinen.LomakeFM.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\netcoreapp3.1\ekaGraafinen.csproj.GenerateResource.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\netcoreapp3.1\ekaGraafinen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\netcoreapp3.1\ekaGraafinen.AssemblyInfoInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\netcoreapp3.1\ekaGraafinen.AssemblyInfo.cs
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\netcoreapp3.1\ekaGraafinen.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\netcoreapp3.1\ekaGraafinen.dll
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\netcoreapp3.1\ekaGraafinen.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\ekaGraafinen\ekaGraafinen\obj\Debug\netcoreapp3.1\ekaGraafinen.genruntimeconfig.cache
