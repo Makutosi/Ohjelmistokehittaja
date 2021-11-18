@@ -1,0 +1,10 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Laskin1\Laskin1\bin\Debug\Laskin1.exe.config
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Laskin1\Laskin1\bin\Debug\Laskin1.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Laskin1\Laskin1\bin\Debug\Laskin1.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Laskin1\Laskin1\obj\Debug\Laskin1.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Laskin1\Laskin1\obj\Debug\Laskin1.Laskin.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Laskin1\Laskin1\obj\Debug\Laskin1.Properties.Resources.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Laskin1\Laskin1\obj\Debug\Laskin1.csproj.GenerateResource.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Laskin1\Laskin1\obj\Debug\Laskin1.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Laskin1\Laskin1\obj\Debug\Laskin1.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Laskin1\Laskin1\obj\Debug\Laskin1.pdb
