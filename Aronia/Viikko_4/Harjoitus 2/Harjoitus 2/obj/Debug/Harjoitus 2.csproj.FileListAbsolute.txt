@@ -1,0 +1,10 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Harjoitus 2\Harjoitus 2\bin\Debug\Harjoitus 2.exe.config
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Harjoitus 2\Harjoitus 2\bin\Debug\Harjoitus 2.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Harjoitus 2\Harjoitus 2\bin\Debug\Harjoitus 2.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Harjoitus 2\Harjoitus 2\obj\Debug\Harjoitus 2.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Harjoitus 2\Harjoitus 2\obj\Debug\Harjoitus_2.Form1.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Harjoitus 2\Harjoitus 2\obj\Debug\Harjoitus_2.Properties.Resources.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Harjoitus 2\Harjoitus 2\obj\Debug\Harjoitus 2.csproj.GenerateResource.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Harjoitus 2\Harjoitus 2\obj\Debug\Harjoitus 2.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Harjoitus 2\Harjoitus 2\obj\Debug\Harjoitus 2.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Harjoitus 2\Harjoitus 2\obj\Debug\Harjoitus 2.pdb
