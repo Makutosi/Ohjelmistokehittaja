@@ -1,0 +1,10 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\AsteMuunnin\AsteMuunnin\bin\Debug\AsteMuunnin.exe.config
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\AsteMuunnin\AsteMuunnin\bin\Debug\AsteMuunnin.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\AsteMuunnin\AsteMuunnin\bin\Debug\AsteMuunnin.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\AsteMuunnin\AsteMuunnin\obj\Debug\AsteMuunnin.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\AsteMuunnin\AsteMuunnin\obj\Debug\AsteMuunnin.AsteMuunninForm.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\AsteMuunnin\AsteMuunnin\obj\Debug\AsteMuunnin.Properties.Resources.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\AsteMuunnin\AsteMuunnin\obj\Debug\AsteMuunnin.csproj.GenerateResource.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\AsteMuunnin\AsteMuunnin\obj\Debug\AsteMuunnin.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\AsteMuunnin\AsteMuunnin\obj\Debug\AsteMuunnin.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\AsteMuunnin\AsteMuunnin\obj\Debug\AsteMuunnin.pdb
