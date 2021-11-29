@@ -1,4 +1,6 @@
-﻿using System;
+// C#-ohjelmointi/ Dia 9/ Harjoituksia/ 25.10.2021
+// Tehtävä 3
+using System;
 
 namespace Aronia
 {
@@ -11,6 +13,7 @@ namespace Aronia
     }
 }
 
+// Tehtävä 4
 namespace OmaNimi
 {
     class Program
@@ -22,6 +25,7 @@ namespace OmaNimi
     }
 }
 
+// Tehtävä 5
 namespace YksiNumerot
 {
     class Program
@@ -36,6 +40,7 @@ namespace YksiNumerot
     }
 }
 
+// Tehtävä 6
 namespace EtuNimi
 {
     Class Program
@@ -51,6 +56,7 @@ namespace EtuNimi
     }
 }
 
+// Tehtävä 8
 namespace ConsoleApp1
 {
     class Program
@@ -74,15 +80,11 @@ namespace ConsoleApp1
 
             double sqrt2 = Math.Sqrt(2);
             Console.WriteLine(sqrt2);
-
-
-
-
-
-        }
+         }
     }
 }
 
+// 
 namespace ConsoleApp2
 {
     class Program
@@ -102,81 +104,85 @@ namespace ConsoleApp2
             var y = 5;
             x = y - 2;
             Console.WriteLine(x);
-
-
-        }
+         }
     }
 }
 
+// Dia 16/ Harjoituksia
 namespace Sample1
 {
     class Program
     {
         static void Main(string[] args)
         {
+            // Tehtävä 1
             Console.Write("Anna ensimmäinen numero: ");
             luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
             luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku2 + 3));
-
+            
+            // Tehtävä 2
             Console.Write("Anna ensimmäinen numero: ");
             luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
             luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku2 - 2));
-
+            
+            // Tehtävä 3
             Console.Write("Anna ensimmäinen numero: ");
             luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
             luku2 = int.Parse(Console.ReadLine());;
             Console.WriteLine("x = " + (luku2 * 5));
-
+            
+            // Tehtävä 4
             Console.Write("Anna ensimmäinen numero: ");
             luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
             luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku1 / luku2));
-
+            
+            //Tehtävä 5
             Console.Write("Anna ensimmäinen numero: ");
             luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
             luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku1 % luku2));
-
+            
+            // Tehtävä 6
             Console.Write("Anna ensimmäinen numero: ");
             luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
             luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku1 += luku2));
-
+            
+            // Tehtävä 7
             Console.Write("Anna ensimmäinen numero: ");
             luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
             luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku1 -= luku2));
-
+            
+            // Tehtävä 8
             Console.Write("Anna ensimmäinen numero: ");
             luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
             luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku1 *= luku2*5));
-
+            
+            // Tehtävä 9
             Console.Write("Anna ensimmäinen numero: ");
             luku1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna toinen numero: ");
             luku2 = int.Parse(Console.ReadLine());
             Console.WriteLine("x = " + (luku1 /= luku2));
-
-
-
-
-
-
         }
     }
 }
 
+// Dia 24/ Harjoituksia
+// Tehtävä 1
 public static void Main(string[] args)
 {
     Console.Write("Ole hyvä, ja anna kahta kokonaislukuarvoa: ");
