@@ -1,0 +1,10 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\LukujenLisaysLajittelu\LukujenLisaysLajittelu\bin\Debug\LukujenLisaysLajittelu.exe.config
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\LukujenLisaysLajittelu\LukujenLisaysLajittelu\bin\Debug\LukujenLisaysLajittelu.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\LukujenLisaysLajittelu\LukujenLisaysLajittelu\bin\Debug\LukujenLisaysLajittelu.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\LukujenLisaysLajittelu\LukujenLisaysLajittelu\obj\Debug\LukujenLisaysLajittelu.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\LukujenLisaysLajittelu\LukujenLisaysLajittelu\obj\Debug\LukujenLisaysLajittelu.LukujenJarjestys.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\LukujenLisaysLajittelu\LukujenLisaysLajittelu\obj\Debug\LukujenLisaysLajittelu.Properties.Resources.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\LukujenLisaysLajittelu\LukujenLisaysLajittelu\obj\Debug\LukujenLisaysLajittelu.csproj.GenerateResource.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\LukujenLisaysLajittelu\LukujenLisaysLajittelu\obj\Debug\LukujenLisaysLajittelu.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\LukujenLisaysLajittelu\LukujenLisaysLajittelu\obj\Debug\LukujenLisaysLajittelu.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\LukujenLisaysLajittelu\LukujenLisaysLajittelu\obj\Debug\LukujenLisaysLajittelu.pdb
