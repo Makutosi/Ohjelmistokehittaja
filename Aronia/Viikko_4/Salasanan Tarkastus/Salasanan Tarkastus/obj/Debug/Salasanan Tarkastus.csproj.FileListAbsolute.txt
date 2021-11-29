@@ -1,0 +1,10 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Salasanan Tarkastus\Salasanan Tarkastus\bin\Debug\Salasanan Tarkastus.exe.config
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Salasanan Tarkastus\Salasanan Tarkastus\bin\Debug\Salasanan Tarkastus.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Salasanan Tarkastus\Salasanan Tarkastus\bin\Debug\Salasanan Tarkastus.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Salasanan Tarkastus\Salasanan Tarkastus\obj\Debug\Salasanan Tarkastus.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Salasanan Tarkastus\Salasanan Tarkastus\obj\Debug\Salasanan_Tarkastus.SalasanaForm.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Salasanan Tarkastus\Salasanan Tarkastus\obj\Debug\Salasanan_Tarkastus.Properties.Resources.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Salasanan Tarkastus\Salasanan Tarkastus\obj\Debug\Salasanan Tarkastus.csproj.GenerateResource.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Salasanan Tarkastus\Salasanan Tarkastus\obj\Debug\Salasanan Tarkastus.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Salasanan Tarkastus\Salasanan Tarkastus\obj\Debug\Salasanan Tarkastus.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Salasanan Tarkastus\Salasanan Tarkastus\obj\Debug\Salasanan Tarkastus.pdb
