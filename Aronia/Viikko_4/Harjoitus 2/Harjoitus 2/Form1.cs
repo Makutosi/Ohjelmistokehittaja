@@ -1,4 +1,4 @@
-﻿// Viikko 4/ Harjoitus 2/ Lisätään ominaisuuksia/ 19.11.2021
+// Graafinen käyttöliittymä/ tokaGraafinen/ Tehtävä 2_Käyttäjän teksti/ Lisätään ominaisuuksia/ 19.11.2021
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
