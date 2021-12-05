@@ -1,4 +1,4 @@
-﻿// Graafinen käyttöliittymä/Tehtävä 10_BMI-laskuri/ 30.11.2021
+﻿// Graafinen käyttöliittymä/ Tehtävä 10_BMI-laskuri/ 30.11.2021
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
