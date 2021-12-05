@@ -1,4 +1,4 @@
-﻿// Ohjelmointi 14/ 9.Harjoitus/ 19.11.2021
+﻿// Graafinen käyttöliittymä/ Tehtävä 9_Celsius to Fahrenheit/ 19.11.2021
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
