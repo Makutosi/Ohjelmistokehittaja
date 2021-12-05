@@ -1,4 +1,4 @@
-﻿// 15.11.2021
+﻿// Graafinen käyttöliittymä/ Tehtävä 1/2_Tekstin tulostaminen/ 15.11.2021
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
