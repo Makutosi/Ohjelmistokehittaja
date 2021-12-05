@@ -1,4 +1,4 @@
-﻿// Graafinen käyttöliitymä/ Tehtävä 7-Autokululaskuri/ 29.11.2021
+// Graafinen käyttöliittymä/ Tehtävä 7_Auton kululaskuri/ 29.11.2021
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
