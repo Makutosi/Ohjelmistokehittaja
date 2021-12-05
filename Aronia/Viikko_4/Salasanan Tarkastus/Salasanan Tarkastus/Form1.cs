@@ -17,11 +17,13 @@ namespace Salasanan_Tarkastus
         {
             InitializeComponent();
         }
-
-        private void panel1_Paint(object sender, PaintEventArgs e) // Turhat
-        {                                                          //
-                                                                   //
-        }                                                          //
+  
+        // Turhat
+        private void panel1_Paint(object sender, PaintEventArgs e) 
+        {                                                          
+                                                                   
+        } 
+        // tähän asti
 
         private void TarkistaBT_Click(object sender, EventArgs e)
         {
