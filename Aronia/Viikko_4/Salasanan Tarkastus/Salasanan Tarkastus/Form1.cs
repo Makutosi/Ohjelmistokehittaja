@@ -1,4 +1,4 @@
-﻿// 6.Harjoitus-Salasana/ 27.11.2021
+//Graafinen käyttöliittymä/ Tehtävä 6_Salasana/ 27.11.2021
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -18,10 +18,10 @@ namespace Salasanan_Tarkastus
             InitializeComponent();
         }
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
+        private void panel1_Paint(object sender, PaintEventArgs e) // Turhat
+        {                                                          //
+                                                                   //
+        }                                                          //
 
         private void TarkistaBT_Click(object sender, EventArgs e)
         {
