@@ -1,4 +1,4 @@
-//Graafinen käyttöliittymä/ Tehtävä 6_Salasana/ 27.11.2021
+// Graafinen käyttöliittymä/ Tehtävä 6_Salasana/ 27.11.2021
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
