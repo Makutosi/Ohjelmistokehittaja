@@ -1,4 +1,4 @@
-﻿// 5.Harjoitus-järjestys/ 27.11.2021
+// Graafinen käyttöliittymä/ 5 Tehtävä_Järjestys/ 27.11.2021
 // Enterin painallus lisää jonoon, -999 järjestää jonon ja tulostaa sen vastaus-labeliin
 using System;
 using System.Collections.Generic;
