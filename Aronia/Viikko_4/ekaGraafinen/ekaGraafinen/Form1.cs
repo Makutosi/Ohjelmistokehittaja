@@ -1,4 +1,4 @@
-//Graafinen käyttöliittymä/ ekaGraafinen/ Tehtävä 1_Heippa maailma/ 15.11.2021
+// Graafinen käyttöliittymä/ ekaGraafinen/ Tehtävä 1_Heippa maailma/ 15.11.2021
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
