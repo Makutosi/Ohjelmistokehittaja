@@ -1,0 +1,10 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Nopanheittopeli\Nopanheittopeli\bin\Debug\Nopanheittopeli.exe.config
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Nopanheittopeli\Nopanheittopeli\bin\Debug\Nopanheittopeli.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Nopanheittopeli\Nopanheittopeli\bin\Debug\Nopanheittopeli.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Nopanheittopeli\Nopanheittopeli\obj\Debug\Nopanheittopeli.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Nopanheittopeli\Nopanheittopeli\obj\Debug\Nopanheittopeli.NopanHeitto.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Nopanheittopeli\Nopanheittopeli\obj\Debug\Nopanheittopeli.Properties.Resources.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Nopanheittopeli\Nopanheittopeli\obj\Debug\Nopanheittopeli.csproj.GenerateResource.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Nopanheittopeli\Nopanheittopeli\obj\Debug\Nopanheittopeli.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Nopanheittopeli\Nopanheittopeli\obj\Debug\Nopanheittopeli.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Nopanheittopeli\Nopanheittopeli\obj\Debug\Nopanheittopeli.pdb
