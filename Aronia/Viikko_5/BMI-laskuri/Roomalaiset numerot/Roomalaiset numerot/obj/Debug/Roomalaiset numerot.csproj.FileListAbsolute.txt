@@ -1,0 +1,10 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Roomalaiset numerot\Roomalaiset numerot\bin\Debug\Roomalaiset numerot.exe.config
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Roomalaiset numerot\Roomalaiset numerot\bin\Debug\Roomalaiset numerot.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Roomalaiset numerot\Roomalaiset numerot\bin\Debug\Roomalaiset numerot.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset_numerot.RoomalaisiksiForm.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset_numerot.Properties.Resources.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.csproj.GenerateResource.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Roomalaiset numerot\Roomalaiset numerot\obj\Debug\Roomalaiset numerot.pdb
