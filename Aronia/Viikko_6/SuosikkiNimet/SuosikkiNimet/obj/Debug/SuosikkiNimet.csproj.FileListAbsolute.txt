@@ -1,0 +1,10 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_6\SuosikkiNimet\SuosikkiNimet\bin\Debug\SuosikkiNimet.exe.config
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_6\SuosikkiNimet\SuosikkiNimet\bin\Debug\SuosikkiNimet.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_6\SuosikkiNimet\SuosikkiNimet\bin\Debug\SuosikkiNimet.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_6\SuosikkiNimet\SuosikkiNimet\obj\Debug\SuosikkiNimet.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_6\SuosikkiNimet\SuosikkiNimet\obj\Debug\SuosikkiNimet.SuosikkiForm.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_6\SuosikkiNimet\SuosikkiNimet\obj\Debug\SuosikkiNimet.Properties.Resources.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_6\SuosikkiNimet\SuosikkiNimet\obj\Debug\SuosikkiNimet.csproj.GenerateResource.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_6\SuosikkiNimet\SuosikkiNimet\obj\Debug\SuosikkiNimet.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_6\SuosikkiNimet\SuosikkiNimet\obj\Debug\SuosikkiNimet.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_6\SuosikkiNimet\SuosikkiNimet\obj\Debug\SuosikkiNimet.pdb
