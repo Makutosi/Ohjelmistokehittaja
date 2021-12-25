@@ -1,0 +1,10 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_7\Paivakirja\Paivakirja\bin\Debug\Paivakirja.exe.config
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_7\Paivakirja\Paivakirja\bin\Debug\Paivakirja.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_7\Paivakirja\Paivakirja\bin\Debug\Paivakirja.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_7\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_7\Paivakirja\Paivakirja\obj\Debug\Paivakirja.DiaryForm.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_7\Paivakirja\Paivakirja\obj\Debug\Paivakirja.Properties.Resources.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_7\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.GenerateResource.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_7\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_7\Paivakirja\Paivakirja\obj\Debug\Paivakirja.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Viikko_7\Paivakirja\Paivakirja\obj\Debug\Paivakirja.pdb
