@@ -1,0 +1,10 @@
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.exe.config
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.pdb
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.AssemblyReference.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.SekkariForm.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.Properties.Resources.resources
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.GenerateResource.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.CoreCompileInputs.cache
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.exe
+C:\Users\eriko\source\repot\Ohjelmistokehittaja\Aronia\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.pdb
